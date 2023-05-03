@@ -1,0 +1,37 @@
+body
+{
+    background: lightcoral;
+}
+
+   .login_div1 , .logindiv2
+   {
+    background: blanchedalmond;
+    padding: 10px;
+    float:none;
+    border-radius: 15px;
+   }
+
+   #player1Name , #player2Name
+   {
+    display: inline-block;
+    margin-left: 20px;
+
+   }
+   #word
+   {
+    width: 60%;
+
+   }
+   #wordDisplay
+   {
+    letter-spacing: 5px;
+   }
+   #output
+   {
+    background: wheat;
+    border-radius: 10px;
+    border-top: 10px solid darkolivegreen;
+    padding: 10px;
+    float: none;
+    text-align:left;
+   }
